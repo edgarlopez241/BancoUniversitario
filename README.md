@@ -1,8 +1,42 @@
-# React + Vite
+# BancoUniverisitario
+Banco Universitario, es una landing page de una institucion financiera. (Proyecto para la Universidad)
+ react.js vite tailwindcss 
+ 
+ ⚙️ Stack de Tecnologia
+ 
+    Vite
+    React.js
+    Tailwind CSS
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+    Guia de inicio Rapido
+Sigue los siguientes pasos:
 
-Currently, two official plugins are available:
+Prerequisitos
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Debes estar seguro de tener instalado en tu maquina lo siguiente:
+
+    Git
+    Node.js
+    npm (Node Package Manager)
+
+
+clona el repositorio 
+
+git clone https://github.com/edgarlopez241/BancoUniversitario.git
+Luego de clonar el repositorio, me dirijo a la carpeta donde lo clone:
+
+cd BancoUniversitario
+
+Instalacion
+Una vez dentro de la carpeta procedemos a instalar las distintas dependencias
+
+npm install 
+
+Luego de que se instalen los paquetes procedemos a correr el proyecto
+
+npm run dev
+
+Para verificar que efectivamente este corriendo, abrimos el siguiente enlace:
+
+http://localhost:5173
+
